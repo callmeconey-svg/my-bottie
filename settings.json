@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "callmeconey.aternos.me",
-    "port": 24086,
+    "ip": "OakCreek.aternos.me",
+    "port": 54101,
     "version": "26.1.2",
     "try-creative": false
   },
